@@ -1,10 +1,9 @@
 research-project/
+README.md
+LICENSE
+.gitignore
 │
-├── README.md
-├── LICENSE
-├── .gitignore
-│
-├── 1-paper/
+1-paper/
 │   ├── draft/
 │   ├── final/
 │   ├── figures/
